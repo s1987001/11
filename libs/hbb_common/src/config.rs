@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.yirens.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["5.yirens.top"];
 pub const RS_PUB_KEY: &str = "lVGRrouOprhciGMqF0PQ0gTbtPAmkarj8v22+ZpcBKQ=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
