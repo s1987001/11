@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["5.yirens.top"];
-pub const RS_PUB_KEY: &str = "lVGRrouOprhciGMqF0PQ0gTbtPAmkarj8v22+ZpcBKQ=";
+pub const RS_PUB_KEY: &str = "Ij15SXeBJjFsusMCQwKrsKsnwP0iLk+jT50FHWWYFWc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
